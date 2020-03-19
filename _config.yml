@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "you better run."
   - text: "Am I missing something?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author3.jpg"
 
 ##############################
 # Color the browser elements #
@@ -138,7 +138,7 @@ email: "evidals@pucp.edu.pe"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Hi here is a picture of me."
-author_blurb_image: "/img/author3.png"
+author_blurb_image: "/img/author3.jpg"
 
 ##################
 # Social Buttons #
