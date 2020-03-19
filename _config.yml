@@ -32,7 +32,7 @@ lang: "en"
 author: "Enrique Vidal"
 title: "{ Enrique Vidal }"
 description: "Blog and website of Enrique Vidal"
-keywords: "personal, jekyll, theme"
+keywords: "personal, Enrique, Vidal"
 favicon: "/img/favicon.ico"
 
 ################
@@ -137,8 +137,8 @@ email: "evidals@pucp.edu.pe"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Enrique Vidal has not Computer Science Backgrund."
-author_blurb_image: "/img/author.png"
+author_blurb: "Hi here is a picture of me."
+author_blurb_image: "/img/author3.png"
 
 ##################
 # Social Buttons #
