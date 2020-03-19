@@ -1,0 +1,8 @@
+icons are shown in the following pixel sizes
+36
+72
+96
+144
+192
+
+additionally 'wb' means whitebackground
