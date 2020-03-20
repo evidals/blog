@@ -31,9 +31,9 @@ force-https: True
 lang: "en"
 author: "Enrique Vidal"
 title: "{ Enrique Vidal }"
-description: "Blog and website of Enrique Vidal"
+description: "Website of Enrique Vidal"
 keywords: "personal, Enrique, Vidal"
-favicon: "/img/favicon.ico"
+favicon: "/img/icotest.ico"
 
 ################
 # Header layout #
