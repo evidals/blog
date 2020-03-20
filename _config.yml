@@ -39,9 +39,9 @@ favicon: "/img/icotest.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/icotest-color.ico"
+black-favicon: "/img/icotest_rwr.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg-SolidColor.jpg"
 
 ##############################
 # Dynamic Text on the Header #
