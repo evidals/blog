@@ -55,11 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "keteliiing"
-  - text: "you better run."
-  - text: "Am I missing something?"
+  - text: "E Vidal is still building this site."
+  - text: "Maybe you should try later."
+  - text: "do not forget to contact him per email"
 
 me-img: "/img/author3.png"
+me-small-img: "/img/author4_small.png"
 
 ##############################
 # Color the browser elements #
@@ -75,10 +76,10 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
+icon-36p:  "/img/web-app/icon-36p.png" #created by E VIDAL
+icon-48p:  "/img/web-app/icon-48p.png"
+icon-72p:  "/img/web-app/icon-72p.png"
+icon-96p:  "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
