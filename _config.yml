@@ -59,8 +59,8 @@ lines: # You can add HTML Tags in the Text
   - text: "Maybe you should try later."
   - text: "do not forget to contact him per email"
 
-me-img: "/img/author3.png"
-me-small-img: "/img/author4_small.png"
+# me-img: "/img/author3.png"
+me-img: "/img/author4_small.png"
 
 ##############################
 # Color the browser elements #
